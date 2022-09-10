@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">O2OPruebaApp</string>
+    <string name="home_title">Inicio</string>
+    <string name="detail_title">Detalles de la cerveza</string>
+    <string name="search_beer">Buscar cerveza</string>
+    <string name="name_grades_composition" translatable="false">%s - %sºC</string>
+    <string name="beer_image">Imagen de la cerveza</string>
+</resources>
